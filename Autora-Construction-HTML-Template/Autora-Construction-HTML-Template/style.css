@@ -586,7 +586,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 .header-style-2 #site-header #main-nav { position: absolute; right: 0px; top: 50%; z-index: 99; -webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);-o-transform: translateY(-50%);transform: translateY(-50%); }
 .header-style-2.menu-has-search #site-header #main-nav { right: 44px; }
 .header-style-2 #site-logo {margin-left: 6px; }
-.header-style-2 #site-header .wrap-inner { padding-top: 31px; padding-bottom: 30px; }
+.header-style-2 #site-header .wrap-inner { padding-top: 5px; padding-bottom: 5px; }
 .header-style-2 #main-nav > ul > li > a,
 .header-style-2 #site-header .header-search-icon { line-height: 101px; }
 
