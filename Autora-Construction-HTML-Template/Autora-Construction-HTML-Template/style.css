@@ -590,7 +590,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 .header-style-2 #main-nav > ul > li > a,
 .header-style-2 #site-header .header-search-icon { line-height: 101px; }
 
-.header-style-2 #main-nav > ul > li > a:after { content: ""; position: absolute; bottom: 0; left: 0; width: 0%; height: 3px; background-color: #82141A; opacity: 0; visibility: hidden;  -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
+.header-style-2 #main-nav > ul > li > a:after { content: ""; position: absolute; bottom: 12px; left: 0; width: 0%; height: 3px; background-color: #82141A; opacity: 0; visibility: hidden;  -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
 .header-style-2 #main-nav > ul > li.current-menu-item > a:after ,
 .header-style-2 #main-nav > ul > li > a:hover:after { opacity: 1; visibility: visible; width: 100%; }
 
